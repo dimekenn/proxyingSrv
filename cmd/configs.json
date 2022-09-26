@@ -1,0 +1,12 @@
+{
+  "srv_config": {
+    "port": ":8080"
+  },
+  "json_keys": {
+    "url": "url",
+    "method": "method",
+    "headers": "headers",
+    "body": "body",
+    "queries": "queries"
+  }
+}
